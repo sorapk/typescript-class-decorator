@@ -1,2 +1,6 @@
 # typescript-class-decorator
-Class Utility Decorator
+Class Method Decorator utilities
+
+Current Support:
+- @bind, bind method to class context
+- @mutate, dispatches callback before/after mutation methods
